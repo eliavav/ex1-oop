@@ -6,7 +6,7 @@
 
 #include "macros.h"
 #include "Utilities.h"
-
+//this is test for git
 namespace
 {
     const auto FILL = '*';
