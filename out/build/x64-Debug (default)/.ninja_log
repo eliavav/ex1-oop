@@ -1,0 +1,20 @@
+# ninja log v5
+4	322	626356205	CMakeFiles/ex01.dir/src/Utilities.cpp.obj	aad4f73f4989f5cd
+14	931	626356206	CMakeFiles/ex01.dir/src/Rectangle.cpp.obj	696562b3a692fd40
+6	958	626356206	CMakeFiles/ex01.dir/src/Vertex.cpp.obj	4b5636226402573f
+8	993	626356206	CMakeFiles/ex01.dir/src/EquilateralTriangle.cpp.obj	4cd47001c815e399
+11	1029	626356206	CMakeFiles/ex01.dir/src/IsoscelesTriangle.cpp.obj	21f1ba408c5e1601
+21	1035	626356206	CMakeFiles/ex01.dir/src/Window.cpp.obj	d95dc8937f919690
+1	1078	626356206	CMakeFiles/ex01.dir/src/main.cpp.obj	ae47ed5c474cfb77
+18	1094	626356206	CMakeFiles/ex01.dir/src/Board.cpp.obj	56cbe031f878ab05
+1094	1476	626356206	ex01.exe	7c29b8a56808090
+10	953	626366444	CMakeFiles/ex01.dir/src/Rectangle.cpp.obj	696562b3a692fd40
+13	961	626366444	CMakeFiles/ex01.dir/src/Window.cpp.obj	d95dc8937f919690
+4	969	626366444	CMakeFiles/ex01.dir/src/EquilateralTriangle.cpp.obj	4cd47001c815e399
+7	972	626366444	CMakeFiles/ex01.dir/src/IsoscelesTriangle.cpp.obj	21f1ba408c5e1601
+1	1055	626366445	CMakeFiles/ex01.dir/src/main.cpp.obj	ae47ed5c474cfb77
+1055	1244	626366445	ex01.exe	7c29b8a56808090
+0	857	626367454	CMakeFiles/ex01.dir/src/EquilateralTriangle.cpp.obj	4cd47001c815e399
+857	1001	626367454	ex01.exe	7c29b8a56808090
+1	1338	626369087	CMakeFiles/ex01.dir/src/Window.cpp.obj	d95dc8937f919690
+1339	1541	626369087	ex01.exe	7c29b8a56808090
