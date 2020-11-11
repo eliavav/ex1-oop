@@ -1,2 +1,3 @@
-﻿target_sources (oop1_ex02 PRIVATE "main.cpp"
-                                  "io.cpp")
+﻿target_sources (ex-oop PRIVATE "main.cpp"
+                                  "board.cpp"
+                                  "player.cpp")

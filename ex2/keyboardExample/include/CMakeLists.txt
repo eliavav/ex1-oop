@@ -1,1 +1,1 @@
-﻿target_include_directories (oop1_ex02 PRIVATE ${CMAKE_CURRENT_LIST_DIR})
+﻿target_include_directories (ex-oop PRIVATE ${CMAKE_CURRENT_LIST_DIR})
