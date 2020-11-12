@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <cstdlib> // for std::system()
 #include "board.h"
+#include "io.h"
 
 
 int main()

@@ -22,12 +22,31 @@ bool board::SetBoard()
 			Bfile.get(squre);
 			if (squre == '\n')
 				break;
+			if (squre == '@')
+			{
+
+			}
 			temp.push_back(squre);
 		}
 		Bfile.get();//skip the '\n'
 		m_gameboard.push_back(temp);
 	}
+	return true;
+}
 
+int board::getlevelsize() const
+{
+	return m_levelSize;
+}
+
+std::vector<vector<char>> board::getvector() const
+{
+	return m_gameboard;
+}
+
+char board::getSqureData(Location cell) const
+{
+	return m_gameboard[cell.row][cell.col];
 }
 
 board::~board()
@@ -35,7 +54,7 @@ board::~board()
 
 }
 
-void board::print()
+void board::print() const
 {
 	for (int row = 0; row < m_gameboard.size(); ++row)
 	{

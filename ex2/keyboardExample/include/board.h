@@ -16,8 +16,11 @@ class board
 public:
 	board();
 	~board();
-	void print();
+	void print() const;
 	bool SetBoard();
+	int getlevelsize() const;
+	vector<vector<char>>getvector() const;
+	char getSqureData(Location cell) const;
 
 private:
 	vector<vector<char>> m_gameboard;
